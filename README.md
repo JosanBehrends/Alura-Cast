@@ -4,7 +4,7 @@ Projeto do nosso PodCast finalizado durante o Curso Alura: Construindo layouts c
 
 Válido ressaltar que esse projeto foi destinado para a responsividade dos diferentes aparelhos por meio do uso de Grid. Portanto, o HTML e CSS já vieram prontos, porém todos bagunçados, sendo necessário arrumá-lo responsivamente via grid
 
-Técnica principal utilizada no curso:
+Principais temas utilizados no curso:
 
 * CSS Responsivo
 * Integração mobile, tablet e desktop
